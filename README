@@ -1,0 +1,6 @@
+Project about Robotic Path Planning.
+
+Pacman is used as one of the characters of the project.
+Pacman is using SFML Libraries for Graphics
+
+OpenGL is used for some parts of algorithms.
